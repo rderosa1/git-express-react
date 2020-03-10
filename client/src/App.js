@@ -12,6 +12,7 @@ export default class App extends Component {
         <h3>Question Life</h3>
         <h3>Add some blue</h3>
         <h3>Eat some berries, and remember, it's not exactly cannibalism just yet </h3>
+        <h3>Sacrifice yourself to the Berry Demon</h3>
         <h4>Sleep</h4>
         <h5>Bananas</h5>
         <p>some junk in here from mary</p>
